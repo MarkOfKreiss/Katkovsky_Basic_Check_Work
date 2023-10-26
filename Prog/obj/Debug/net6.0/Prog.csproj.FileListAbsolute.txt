@@ -1,0 +1,15 @@
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\bin\Debug\net6.0\Prog.exe
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\bin\Debug\net6.0\Prog.deps.json
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\bin\Debug\net6.0\Prog.runtimeconfig.json
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\bin\Debug\net6.0\Prog.dll
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\bin\Debug\net6.0\Prog.pdb
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.csproj.AssemblyReference.cache
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.AssemblyInfoInputs.cache
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.AssemblyInfo.cs
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.csproj.CoreCompileInputs.cache
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.dll
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\refint\Prog.dll
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.pdb
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\Prog.genruntimeconfig.cache
+D:\My_Programs\GeekBrains\Developer\Контрольная работа\Prog\obj\Debug\net6.0\ref\Prog.dll
